@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523463638170",
+    "project_id": "phoneauth-fd006",
+    "storage_bucket": "phoneauth-fd006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523463638170:android:f2d4507e2cd33525593323",
+        "android_client_info": {
+          "package_name": "com.optverificationrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523463638170-rren14v11m0u4otilnnrp2lv685c6oar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optverificationrn",
+            "certificate_hash": "ec98fc9a1bf40efcfa1f41083e2e243d50eb85c0"
+          }
+        },
+        {
+          "client_id": "523463638170-phcn72er22n3kk1sngblpvalju4ukpmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnisMvJ6vWdt5KDSGsKu8f7dkllVhoc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523463638170-phcn72er22n3kk1sngblpvalju4ukpmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
